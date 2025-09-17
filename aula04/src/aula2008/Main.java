@@ -37,11 +37,11 @@ public class Main {
 
 		HashSet<String> coisas = new HashSet<String>();
 		coisas.add("Maçã");
-		coisas.add("Selola");
+		coisas.add("Celular");
 		coisas.add("Express");
 		coisas.add("Maçã");
 		System.out.println(coisas);
-		System.out.println(coisas.contains("Selola"));
+		System.out.println(coisas.contains("Celular"));
 
 		//Inicio do MAP:
 		System.out.println("MAP: ");
