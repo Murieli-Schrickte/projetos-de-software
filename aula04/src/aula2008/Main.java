@@ -39,6 +39,7 @@ public class Main {
 		coisas.add("Maçã");
 		coisas.add("Celular");
 		coisas.add("Express");
+		coisas.add("Photocard do Soobin");
 		coisas.add("Maçã");
 		coisas.add("Photocard do Kai")
 		System.out.println(coisas);
