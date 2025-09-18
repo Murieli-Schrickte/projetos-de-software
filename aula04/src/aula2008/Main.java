@@ -42,6 +42,8 @@ public class Main {
 		coisas.add("Photocard do Soobin");
 		coisas.add("Photocard do Taehyun");
 		coisas.add("Photocard do Kai");
+		coisas.add("Photocard do Yeonjun");
+		coisas.add("Photocard do Beomgyu");
 		coisas.add("Maçã");
 		System.out.println(coisas);
 		System.out.println(coisas.contains("Celular"));
