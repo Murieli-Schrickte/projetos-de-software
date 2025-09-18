@@ -40,6 +40,8 @@ public class Main {
 		coisas.add("Celular");
 		coisas.add("Express");
 		coisas.add("Photocard do Soobin");
+		coisas.add("Photocard do Taehyun");
+		coisas.add("Photocard do Kai");
 		coisas.add("Maçã");
 		System.out.println(coisas);
 		System.out.println(coisas.contains("Celular"));
