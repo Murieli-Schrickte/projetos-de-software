@@ -40,6 +40,7 @@ public class Main {
 		coisas.add("Celular");
 		coisas.add("Express");
 		coisas.add("Maçã");
+		coisas.add("Photocard do Kai")
 		System.out.println(coisas);
 		System.out.println(coisas.contains("Celular"));
 
